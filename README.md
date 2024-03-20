@@ -2,4 +2,4 @@
 
 Tugas: Latihan Todo App
 
-Nama: Shiva Nadia
+Nama: Shifa Nadia
